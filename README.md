@@ -7,7 +7,7 @@ My Projects:
 [Personal portfolio](https://riccardogiacomazzi-df429.web.app/) - [Photography website](https://rg-photo-portfolio.web.app/) - [Music website](https://tracya-av.web.app/)
 
 
-My Tech Stack
+My Tech Stack:
 -
 
 |                                   |                                                                                               |
