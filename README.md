@@ -10,7 +10,7 @@ My Tech Stack:
 
 |                                   |                                                                                               |
 |-----------------------------------|-----------------------------------------------------------------------------------------------|
-| **FRONTEND**                      | React, JavaScript, HTML, CSS, Axios, MaterialUI                                                |
+| **FRONTEND**                      | React, JavaScript, HTML, CSS                                             |
 | **BACKEND**                       | Node.js, Express, Jsonwebtoken, Bcrypt, MongoDB, Mongoose, NeonDB, Hasura                     |
 | **TESTING**                       | Jest, Cypress                                                                                 |
 | **VERSION CONTROL SYSTEM, OTHER TOOLS** | Git, GitHub, Firebase                                                                      |
