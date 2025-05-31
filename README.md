@@ -1,6 +1,4 @@
 👋 Hi, I’m Riccardo!
--
-I'm a professional based in Berlin with extensive working experience in Customer Service who is currently looking for the next challenge in Full Stack Development.
 
 My Projects:
 - 
